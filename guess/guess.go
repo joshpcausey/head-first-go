@@ -13,7 +13,7 @@ import (
 func main() {
 	counter := 0
 	randomNumber := rand.IntN(100)
-	for counter < 10 {
+	for x := 0; x < 10; x++ {
 		fmt.Print("Enter a number ")
 		reader := bufio.NewReader(os.Stdin)
 		input, err := reader.ReadString('\n')
