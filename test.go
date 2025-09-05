@@ -1,11 +1,13 @@
 package main
 
-import (
-	"fmt"
-	"math/rand"
-)
+import "fmt"
+
+func double(num *int) {
+	*num *= 2
+}
 
 func main() {
-	target := rand.Intn(100) + 1
-	fmt.Println(target)
+	num := 6
+	double(&num)
+	fmt.Println(num)
 }
