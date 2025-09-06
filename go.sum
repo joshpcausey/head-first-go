@@ -1,2 +1,4 @@
 github.com/enescakir/emoji v1.0.0 h1:W+HsNql8swfCQFtioDGDHCHri8nudlK1n5p2rHCJoog=
 github.com/enescakir/emoji v1.0.0/go.mod h1:Bt1EKuLnKDTYpLALApstIkAjdDrS/8IAgTkKp+WKFD0=
+github.com/headfirstgo/datafile v0.0.0-20190307063009-c40c587e7269 h1:c2qtZSYiBgLXZ4LGXCW0JxRb611oiks+ZFaNUA8J8gw=
+github.com/headfirstgo/datafile v0.0.0-20190307063009-c40c587e7269/go.mod h1:7VyRGcmFIiTsEPOobZkJpgOGYYYUw4QaP+81tb48q9M=

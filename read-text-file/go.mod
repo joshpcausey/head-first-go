@@ -1,3 +1,3 @@
-module readfile
+module readTextFile
 
 go 1.25.1
